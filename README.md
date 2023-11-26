@@ -327,3 +327,6 @@ https://github.com/jaburkat/proyecto-final-backend/assets/96733176/5a809b4c-8cd2
 ## Documentación extra
 
 - [Swagger](https://proyecto-final-backend-production-33d4.up.railway.app/api-docs/) (Implementación básica de métodos relevantes del proyecto)
+
+## Desafíos realizados durante el curso
+- [Desafios](https://github.com/jaburkat/backend-desafios)  (Todos los desafíos hasta llegar al proyecto final)
