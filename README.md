@@ -322,7 +322,7 @@ https://url
 
 ## Enlace al sitio activo
 
-- [Deploy en Render](https://proyecto-final-backend-production-33d4.up.railway.app/) (Funcionalidad Front-end básica)
+- [Deploy en Railway](https://proyecto-final-backend-production-33d4.up.railway.app/) (Funcionalidad Front-end básica)
 
 ## Documentación extra
 
