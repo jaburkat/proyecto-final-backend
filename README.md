@@ -326,4 +326,4 @@ https://url
 
 ## Documentación extra
 
-- [Swagger](url) (Implementación básica de métodos relevantes del proyecto)
+- [Swagger](https://proyecto-final-backend-production-33d4.up.railway.app/api-docs/) (Implementación básica de métodos relevantes del proyecto)
