@@ -318,7 +318,7 @@ npx artillery run config.yaml --output restPerformance.json
 
 ## Demo <a name="video"></a>
 
-https://url
+https://github.com/jaburkat/proyecto-final-backend/assets/96733176/5a809b4c-8cd2-4873-8ea8-76f316dc2dd8
 
 ## Enlace al sitio activo
 
